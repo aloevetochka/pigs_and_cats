@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pigs_and_cats/static/css/main.fa7cd4c9.css",
+    "main.js": "/pigs_and_cats/static/js/main.f9d6adef.js",
+    "static/media/kit.png": "/pigs_and_cats/static/media/kit.78a6d880d9ffd6cd5752.png",
+    "static/media/porosenok.png": "/pigs_and_cats/static/media/porosenok.9c2fa188042a447f5b55.png",
+    "index.html": "/pigs_and_cats/index.html",
+    "main.fa7cd4c9.css.map": "/pigs_and_cats/static/css/main.fa7cd4c9.css.map",
+    "main.f9d6adef.js.map": "/pigs_and_cats/static/js/main.f9d6adef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa7cd4c9.css",
+    "static/js/main.f9d6adef.js"
+  ]
+}
